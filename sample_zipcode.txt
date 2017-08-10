@@ -1,0 +1,2 @@
+100	CO	denver
+102	WA	seattle
